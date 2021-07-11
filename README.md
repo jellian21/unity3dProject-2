@@ -1,10 +1,10 @@
 # unity3dProject-2
 
-Overview:
+**Overview:**
 
 Side-scrolling game like Super Mario. 
 
-Technologies:
+**Technologies:**
 
 • Unity (game engine) • C# (scripting) 
 
